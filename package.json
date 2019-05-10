@@ -1,0 +1,20 @@
+{
+  "name": "lab-12-u1710099",
+  "version": "1.0.0",
+  "description": "![preview](src/images/scroll-eff.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuthub/lab-12-u1710099.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuthub/lab-12-u1710099/issues"
+  },
+  "homepage": "https://github.com/iuthub/lab-12-u1710099#readme"
+}
